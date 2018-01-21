@@ -39,7 +39,7 @@ Basic contibution type
 ####Technical stacks
 1. MySQL
 2. Tomcat server
-3. 
+3. Java
 
 ####Flow of the application
 1. Register/Login
